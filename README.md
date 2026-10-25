@@ -9,7 +9,7 @@
 
 ## Introduction
 
-![Surakshit Bharat landing page — project introduction](screenshots/result1-landing.png)
+![Surakshit Bharat landing page — project introduction](images/screenshots/result1-landing.png)
 
 **Surakshit Bharat** is a web-based centralized emergency response system developed as a major project by students of the Information Technology Department at Xavier Institute of Engineering, University of Mumbai. It aims to simplify access to emergency assistance by bringing communication and emergency-support features together in one platform.
 
@@ -42,43 +42,43 @@ Surakshit Bharat explores a single interface for reaching relevant emergency-ser
 
 *Availability of individual features depends on the demo deployment and the external service configuration.*
 
-## Screenshots
+## images/screenshots
 
-The following screenshots are from the project's major-project report materials.
+The following images/screenshots are from the project's major-project report materials.
 
 ### Landing page
 
-![Surakshit Bharat landing page](screenshots/landing-page.png)
+![Surakshit Bharat landing page](images/screenshots/landing-page.png)
 
 ### AI-assisted chatbot
 
-![Surakshit Bharat chatbot](screenshots/chatbot.png)
+![Surakshit Bharat chatbot](images/screenshots/chatbot.png)
 
 ### Login page
 
-![Surakshit Bharat login page](screenshots/login-page.png)
+![Surakshit Bharat login page](images/screenshots/login-page.png)
 
 ### Emergency chat interface
 
-![Emergency chat interface](screenshots/emergency-chat-desktop.png)
+![Emergency chat interface](images/screenshots/emergency-chat-desktop.png)
 
 ### Location sharing
 
-![Location sharing interface](screenshots/location-sharing.png)
+![Location sharing interface](images/screenshots/location-sharing.png)
 
 ### Mobile interface
 
-The mobile screenshots are presented inside phone-outline frames to show how the interface appears on smaller screens.
+The mobile images/screenshots are presented inside phone-outline frames to show how the interface appears on smaller screens.
 
 | Mobile view 1 | Mobile view 2 | Mobile view 3 |
 |:---:|:---:|:---:|
-| ![Surakshit Bharat mobile view 1 in a phone outline](screenshots/mobile-view-1.png) | ![Surakshit Bharat mobile view 2 in a phone outline](screenshots/mobile-view-2.png) | ![Surakshit Bharat mobile view 3 in a phone outline](screenshots/mobile-view-3.png) |
+| ![Surakshit Bharat mobile view 1 in a phone outline](images/screenshots/mobile-view-1.png) | ![Surakshit Bharat mobile view 2 in a phone outline](images/screenshots/mobile-view-2.png) | ![Surakshit Bharat mobile view 3 in a phone outline](images/screenshots/mobile-view-3.png) |
 
 ## System Architecture
 
 The frontend is built with HTML, CSS, JavaScript, and Bootstrap. The Node.js/Express backend handles server-side logic, authentication, service/provider data, and API requests. Socket.IO supports real-time chat. MongoDB Atlas stores application data, while Cloudinary stores image/media assets. External integrations include Twilio for calling/communication, an SMTP service for email, and the APIs configured for chatbot and location functionality.
 
-![Surakshit Bharat system architecture](screenshots/architecture.png)
+![Surakshit Bharat system architecture](images/screenshots/architecture.png)
 
 ### Proposed workflow
 
@@ -89,13 +89,13 @@ The frontend is built with HTML, CSS, JavaScript, and Bootstrap. The Node.js/Exp
 5. Text messages and supported media are exchanged through the application.
 6. The chatbot can provide general first-aid information while the user seeks appropriate help.
 
-![Surakshit Bharat workflow diagram](screenshots/flowchart.png)
+![Surakshit Bharat workflow diagram](images/screenshots/flowchart.png)
 
 ### Database design
 
 The report's data model includes users, emergency services, chats, messages, and location records. A user may have multiple chats, each chat can contain multiple messages, and location records can be associated with a user.
 
-![Surakshit Bharat entity relationship diagram](screenshots/er-diagram.png)
+![Surakshit Bharat entity relationship diagram](images/screenshots/er-diagram.png)
 
 ## Technology Stack
 
