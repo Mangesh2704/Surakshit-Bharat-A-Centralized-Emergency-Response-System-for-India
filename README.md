@@ -200,7 +200,7 @@ Explore the deployed website:
 
 - The registration service is currently not working in the deployed demo. Go directly to **Sign In** to explore the available interface.
 - The demo login details shared for this project are:
-  - **Username:** `Mangesh27`
+  - **Username:** `Darshan27`
   - **Password:** `abc123de`
 - After signing in, you can explore the website and try the **Panic** button to inspect the emergency workflow.
 
