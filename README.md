@@ -11,7 +11,7 @@
 
 ![Surakshit Bharat landing page — project introduction](images/screenshots/result1-landing.png)
 
-**Surakshit Bharat** is a web-based centralized emergency response system developed as a major project by students of the Information Technology Department at Xavier Institute of Engineering, University of Mumbai. It aims to simplify access to emergency assistance by bringing communication and emergency-support features together in one platform.
+**Surakshit Bharat** is a web-based centralized emergency response system developed as a major project that aims to simplify access to emergency assistance by bringing communication and emergency-support features together in one platform.
 
 During an emergency, people may not know which helpline to contact or may be unable to make a voice call. Surakshit Bharat is designed to support multiple communication methods, share the user's location and images, and provide AI-assisted first-aid guidance while help is being sought.
 
